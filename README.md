@@ -10,7 +10,7 @@ To set up the environment, you can follow these steps:
 
 Clone the repository from GitHub:
 ```sh
-git clone https://github.com/xxxxx
+git clone https://github.com/monicasteph97/scdaa
 ```
 
 ## Usage
