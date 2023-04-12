@@ -13,4 +13,4 @@ git clone https://github.com/monicasteph97/scdaa
 
 ## Usage
 
-Run the final-stochastic-control.ipynb
+Run the code.ipynb
