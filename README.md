@@ -1,4 +1,5 @@
 # SCDAA Coursework 2022-23
+Cristiano Riscado (S2358588), Keith Ciantar (S2435142), Monica Stephanie (S2457006)
 
 ## Description
 
